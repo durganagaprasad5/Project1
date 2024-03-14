@@ -1,0 +1,27 @@
+html, body {
+    height: auto;
+}
+
+body {
+    background: linear-gradient(red,white,blue );
+    background-size: cover;
+    height: auto;
+}
+h2{
+    color:rgb(255, 255, 255)
+}
+h3{
+    font-size:xx-large;
+    font-style: italic;
+}
+h4{
+    font-size: 150%;
+    font-style: italic;
+}
+.main img{
+    margin-right: 25%;
+    border-radius: 50%;
+}
+dev2{
+    color: rgb(0, 0, 0);
+}
