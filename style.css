@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    background: radial-gradient(white,blue,red,white,red) ;
+    background: radial-gradient(white,blue,red,white,red);
     background-size: cover;
     height: auto;
 }
